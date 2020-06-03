@@ -1,0 +1,112 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.body{
+    background-color: rgb(25, 21, 21);
+
+}
+.hero{
+    height: 400px;
+}
+
+.logo{
+    width:50px;
+}
+.carousel-item{
+    background: no-repeat center center scroll;
+    background-size: cover;    
+}
+.bg-light {
+    background-color: green important;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.container .navbar-brand .a .logo :hover{
+    color: green;
+}
+.navbar{
+
+    background-color: rgb(25, 21, 21);
+}
+.about{
+    
+    
+}
+.head{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color: #50964a;
+}
+.logo2{
+    text-align: center;   
+}
+.logo3{
+    width: 180px;
+}
+.pin{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px;
+    color: #50964a;
+
+}
+.work{
+    
+    background-color: rgb(25, 21, 21);
+}
+.vid{
+    max-width: 100%;
+    height: auto;
+}
+.contact{
+ background-color: rgb(25, 21, 21); 
+    
+}
+.head2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    color: #50964a;   
+}
+.subad{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    color: #50964a;
+    
+}
+.new{
+    list-style: none;
+padding-left: 0px;
+padding-right: 0px;
+}
+.footer{
+    height: 50px;
+    background-color: #50964a
+}
+.endhead{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-light .navbar-toggler{
+    border-color:1px solid white;
+    background-color: white;
+}
+.nav-item :hover{
+    background-color: #50964a;
+    border-radius: 12px;
+    color: white;
+}
+.newlogo{
+    
+    text-align: center;
+}
+.container :hover.imgno{
+    opacity: 0.5;
+}
+.container :hover.hov{
+   opacity: 0.6;
+}
